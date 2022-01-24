@@ -1,7 +1,7 @@
 const jadwal = [
   {
     hari: "Senin",
-    mapel: [null, "MM MINAT / GEOGRAFI", "BAHASA INDONESIA", "-"],
+    mapel: [null, "Agama ×3", "Sej. Wajib ×2", "Ekonomi ×2", "-"],
   },
   {
     hari: "Selasa",
