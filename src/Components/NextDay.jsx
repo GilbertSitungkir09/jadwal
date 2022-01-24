@@ -9,7 +9,7 @@ function NextDay({ nextDay }) {
   return (
     <div className={styles.nextDay}>
       <h3>Mata Pelajaran Selanjutnya</h3>
-      <h3>By : Gilbert S</h3>
+      <h3>By : TheGNS0X SYM</h3>
       <p>
         Hari Belajar Selanjutnya adalah hari <b>{next().hari}</b>
       </p>
