@@ -1,30 +1,32 @@
 const jadwal = [
   {
     hari: "Senin",
-    mapel: [null, "Agama ×3", "Sej. Wajib ×2", "Ekonomi ×2", "-"],
+    mapel: [null, "AGAMA", "SEJ. WAJIB (MINUM)", "EKONOMI", "PULANG :V"],
   },
   {
     hari: "Selasa",
-    mapel: ["BAHASA INGGRIS", "SEJARAH WAJIB", "LINTAS MINAT"],
+    mapel: ["GEOGRAFI", "SBK", "SOSIOLOGI", "SEJ. PEMINATAN"],
   },
   {
     hari: "Rabu",
     mapel: [
-      "BIOLOGI / SOSIOLOGI",
-      "AGAMA"
+      "B.ING. PEMINATAN",
+      "GEOGRAFI",
+      "MM",
+      "B.ING. WAJIB"
     ],
   },
   {
     hari: "Kamis",
-    mapel: ["MTK WAJIB", "PJOK", "PKW"],
+    mapel: ["MM", "SEJ. PEMINATAN", "EKONOMI", "B.ING. PEMINATAN"],
   },
   {
     hari: "Jum'at",
-    mapel: [null, "FISIKA / SEJARAH MINAT", "SENI BUDAYA"],
+    mapel: [null, "PENJAS (MINUM)", "PKN", "B.INDONESIA"],
   },
   {
     hari: "Sabtu",
-    mapel: [null, "KIMIA / EKONOMI", "PKN"],
+    mapel: [null, "PENJAS", "B.INDONESIA", "PKW", "SOSIOLOGI"],
   },
 ];
 
